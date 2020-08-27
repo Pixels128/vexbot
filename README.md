@@ -6,7 +6,7 @@ If you want to use the bot with no configuration or finding hosting, the link to
 Join our discord server on the website above for suggestions, questions or assistance!
 
 If you want to modify the bot, be sure to add your own discord key in bot.py on the last line (client.run([your key here, as a string]))
-
+_ _ _
 How to use: .help / .h = show help menu
 
 .team [team name] = shows basic information on the team.
