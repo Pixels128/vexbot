@@ -1,10 +1,9 @@
-# vexbot
-Code for VEXbot, a discord bot working with vexDB API to give you information about any VEX robotics teams.
+# Code for VEXbot, a discord bot working with vexDB API to give you information about any VEX robotics teams.
+# Our website is: https://vexbot.tk 
 
-If you want to use the bot with no configuration or finding hosting, the link to add it to your server is on our website below.
+If you want to use the bot with no configuration or finding hosting, the link to add it to your server is on our website above.
 
-#Our website is: https://vexbot.tk 
-Join our discord server on the website for suggestions, questions or assistance!
+Join our discord server on the website above for suggestions, questions or assistance!
 
 If you want to modify the bot, be sure to add your own discord key in bot.py on the last line (client.run([your key here, as a string]))
 
